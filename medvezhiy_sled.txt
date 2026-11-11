@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-treasure-approach-requested-prayers.trycloudflare.com
-=======
-cedar-societies-amendments-additional.trycloudflare.com
->>>>>>> Stashed changes
+assistant-legacy-int-stevens.trycloudflare.com
